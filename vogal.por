@@ -7,7 +7,7 @@ programa {
       leia(vogal[i])
     }
     para(inteiro i=4; i>=0; i--){
-      escreva(vogal[1]," ")
+      escreva(vogal[i]," ")
     }
   }
 }
